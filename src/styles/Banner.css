@@ -1,0 +1,19 @@
+.lva-banner {
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+}
+
+.lva-title {
+    padding-left: 32px;
+}
+
+.lva-logo {
+    height: 120px;
+    width: 120px;
+}

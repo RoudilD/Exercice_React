@@ -1,0 +1,12 @@
+.lva-shopping-list {
+    width: 100%;
+    list-style-type: none;
+}
+
+.lva-car-list {
+    list-style-type: none;
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
